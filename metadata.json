@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Blob Battle",
+  "description": "A fast-paced multiplayer-style blob battle game (Agar.io clone) featuring AI-powered name generation and tactical advice using Google Gemini.",
+  "requestFramePermissions": []
+}
